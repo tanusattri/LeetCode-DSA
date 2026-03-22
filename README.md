@@ -33,6 +33,7 @@
 | [0125-valid-palindrome](https://github.com/tanusattri/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanusattri/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/tanusattri/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanusattri/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/tanusattri/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
