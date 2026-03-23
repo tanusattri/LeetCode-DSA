@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/tanusattri/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanusattri/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanusattri/DSA/tree/master/0724-find-pivot-index) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanusattri/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -19,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanusattri/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanusattri/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -67,6 +69,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanusattri/DSA/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
