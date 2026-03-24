@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tanusattri/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanusattri/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanusattri/DSA/tree/master/0724-find-pivot-index) |
@@ -75,4 +76,5 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/tanusattri/DSA/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
