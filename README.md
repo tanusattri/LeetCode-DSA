@@ -79,6 +79,7 @@
 | [0070-climbing-stairs](https://github.com/tanusattri/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tanusattri/DSA/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/tanusattri/DSA/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tanusattri/DSA/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/tanusattri/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
