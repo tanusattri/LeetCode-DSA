@@ -19,6 +19,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanusattri/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanusattri/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tanusattri/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanusattri/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tanusattri/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanusattri/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -59,6 +60,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanusattri/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanusattri/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tanusattri/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanusattri/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tanusattri/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanusattri/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -105,6 +107,7 @@
 | [0213-house-robber-ii](https://github.com/tanusattri/DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/tanusattri/DSA/tree/master/0338-counting-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tanusattri/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tanusattri/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Math
 |  |
 | ------- |
