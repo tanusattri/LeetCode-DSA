@@ -108,6 +108,7 @@
 | [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanusattri/DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/tanusattri/DSA/tree/master/0338-counting-bits) |
+| [0799-champagne-tower](https://github.com/tanusattri/DSA/tree/master/0799-champagne-tower) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tanusattri/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tanusattri/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Math
