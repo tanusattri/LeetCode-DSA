@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanusattri/DSA/tree/master/0724-find-pivot-index) |
+| [0944-delete-columns-to-make-sorted](https://github.com/tanusattri/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1480-running-sum-of-1d-array](https://github.com/tanusattri/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tanusattri/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanusattri/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -49,6 +50,7 @@
 | [0125-valid-palindrome](https://github.com/tanusattri/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanusattri/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/tanusattri/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/tanusattri/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanusattri/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanusattri/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
