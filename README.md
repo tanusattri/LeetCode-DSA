@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/tanusattri/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanusattri/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tanusattri/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanusattri/DSA/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tanusattri/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanusattri/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanusattri/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanusattri/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tanusattri/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanusattri/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -104,6 +107,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanusattri/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -178,4 +182,8 @@
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/tanusattri/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
