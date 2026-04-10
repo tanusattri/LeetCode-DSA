@@ -1,6 +1,6 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        counts={} #using dictionary 
+        counts= {}
         n= len(nums)
         for num in nums:
             counts[num]= counts.get(num,0)+1
