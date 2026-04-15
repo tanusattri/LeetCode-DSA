@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/tanusattri/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/tanusattri/DSA/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/tanusattri/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/tanusattri/DSA/tree/master/0274-h-index) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanusattri/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/tanusattri/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Queue
 |  |
@@ -151,6 +153,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tanusattri/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tanusattri/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanusattri/DSA/tree/master/0724-find-pivot-index) |
@@ -249,6 +252,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanusattri/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/tanusattri/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Trie
 |  |
