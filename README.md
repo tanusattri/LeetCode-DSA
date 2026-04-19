@@ -27,6 +27,7 @@
 | [0274-h-index](https://github.com/tanusattri/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/tanusattri/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tanusattri/DSA/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/tanusattri/DSA/tree/master/0518-coin-change-ii) |
@@ -197,6 +198,7 @@
 | [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanusattri/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/tanusattri/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tanusattri/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tanusattri/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tanusattri/DSA/tree/master/0392-is-subsequence) |
