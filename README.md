@@ -29,6 +29,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/tanusattri/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tanusattri/DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/tanusattri/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/tanusattri/DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +207,7 @@
 | [0322-coin-change](https://github.com/tanusattri/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tanusattri/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tanusattri/DSA/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/tanusattri/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/tanusattri/DSA/tree/master/0518-coin-change-ii) |
 | [0799-champagne-tower](https://github.com/tanusattri/DSA/tree/master/0799-champagne-tower) |
