@@ -49,6 +49,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanusattri/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanusattri/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/1095-find-in-mountain-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tanusattri/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1340-jump-game-v](https://github.com/tanusattri/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/tanusattri/DSA/tree/master/1345-jump-game-iv) |
@@ -392,6 +393,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tanusattri/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanusattri/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/1095-find-in-mountain-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tanusattri/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanusattri/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/tanusattri/DSA/tree/master/2540-minimum-common-value) |
@@ -423,4 +425,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/tanusattri/DSA/tree/master/3719-longest-balanced-subarray-i) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
