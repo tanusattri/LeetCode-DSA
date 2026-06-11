@@ -37,6 +37,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/tanusattri/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tanusattri/DSA/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/tanusattri/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/tanusattri/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/tanusattri/DSA/tree/master/0518-coin-change-ii) |
@@ -289,6 +290,7 @@
 | [0322-coin-change](https://github.com/tanusattri/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tanusattri/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tanusattri/DSA/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/tanusattri/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/tanusattri/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/tanusattri/DSA/tree/master/0518-coin-change-ii) |
@@ -314,6 +316,7 @@
 | [0070-climbing-stairs](https://github.com/tanusattri/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanusattri/DSA/tree/master/0202-happy-number) |
+| [0396-rotate-function](https://github.com/tanusattri/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/tanusattri/DSA/tree/master/0788-rotated-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tanusattri/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
