@@ -79,6 +79,7 @@
 | [2906-construct-product-matrix](https://github.com/tanusattri/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanusattri/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tanusattri/LeetCode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanusattri/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tanusattri/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanusattri/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -321,6 +322,7 @@
 | [0396-rotate-function](https://github.com/tanusattri/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/tanusattri/DSA/tree/master/0788-rotated-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tanusattri/LeetCode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tanusattri/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -451,4 +453,8 @@
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tanusattri/LeetCode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
