@@ -189,6 +189,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanusattri/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tanusattri/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3606-coupon-code-validator](https://github.com/tanusattri/DSA/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/tanusattri/LeetCode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
@@ -354,6 +355,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/tanusattri/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/tanusattri/DSA/tree/master/3379-transformed-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/tanusattri/LeetCode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
