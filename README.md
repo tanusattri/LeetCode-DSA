@@ -69,6 +69,7 @@
 | [2126-destroying-asteroids](https://github.com/tanusattri/LeetCode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanusattri/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tanusattri/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/tanusattri/LeetCode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanusattri/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/tanusattri/DSA/tree/master/2540-minimum-common-value) |
@@ -151,6 +152,7 @@
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/tanusattri/DSA/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanusattri/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/tanusattri/LeetCode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/tanusattri/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tanusattri/LeetCode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -357,6 +359,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/tanusattri/DSA/tree/master/0657-robot-return-to-origin) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tanusattri/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/tanusattri/LeetCode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanusattri/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/tanusattri/DSA/tree/master/3379-transformed-array) |
