@@ -100,6 +100,7 @@
 | [3660-jump-game-ix](https://github.com/tanusattri/DSA/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/tanusattri/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tanusattri/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/tanusattri/LeetCode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -135,6 +136,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tanusattri/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3606-coupon-code-validator](https://github.com/tanusattri/DSA/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/tanusattri/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tanusattri/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
@@ -260,6 +262,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tanusattri/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/tanusattri/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/tanusattri/DSA/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -285,6 +288,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/tanusattri/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/tanusattri/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -407,6 +411,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
 | [3719-longest-balanced-subarray-i](https://github.com/tanusattri/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -466,6 +471,7 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/tanusattri/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Interactive
 |  |
 | ------- |
@@ -478,4 +484,8 @@
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tanusattri/LeetCode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
