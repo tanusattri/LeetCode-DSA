@@ -68,6 +68,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanusattri/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanusattri/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanusattri/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanusattri/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanusattri/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/tanusattri/LeetCode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanusattri/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -196,6 +197,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/tanusattri/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanusattri/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1871-jump-game-vii](https://github.com/tanusattri/DSA/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanusattri/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanusattri/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/tanusattri/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanusattri/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
