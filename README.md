@@ -56,6 +56,7 @@
 | [1095-find-in-mountain-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/1095-find-in-mountain-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tanusattri/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/tanusattri/LeetCode-DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/tanusattri/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/tanusattri/DSA/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanusattri/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -127,6 +128,7 @@
 | [0904-fruit-into-baskets](https://github.com/tanusattri/DSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/tanusattri/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/tanusattri/DSA/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanusattri/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanusattri/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -239,6 +241,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/tanusattri/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tanusattri/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/tanusattri/LeetCode-DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/tanusattri/DSA/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tanusattri/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanusattri/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
