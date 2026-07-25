@@ -256,6 +256,7 @@
 | [2784-check-if-array-is-good](https://github.com/tanusattri/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanusattri/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tanusattri/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3536-maximum-product-of-two-digits](https://github.com/tanusattri/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tanusattri/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/tanusattri/DSA/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -370,6 +371,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tanusattri/LeetCode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tanusattri/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/tanusattri/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanusattri/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
