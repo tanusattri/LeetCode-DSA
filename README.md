@@ -41,6 +41,7 @@
 | [0396-rotate-function](https://github.com/tanusattri/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/tanusattri/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/tanusattri/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/tanusattri/DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanusattri/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -347,6 +348,7 @@
 | [0396-rotate-function](https://github.com/tanusattri/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/tanusattri/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/tanusattri/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/tanusattri/DSA/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/tanusattri/DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/tanusattri/DSA/tree/master/0799-champagne-tower) |
@@ -372,6 +374,7 @@
 | [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanusattri/DSA/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/tanusattri/LeetCode-DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/tanusattri/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanusattri/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/tanusattri/DSA/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanusattri/LeetCode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -401,6 +404,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tanusattri/DSA/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/tanusattri/DSA/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/tanusattri/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -552,4 +556,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/tanusattri/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
