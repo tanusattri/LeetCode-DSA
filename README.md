@@ -50,6 +50,7 @@
 | [0724-find-pivot-index](https://github.com/tanusattri/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tanusattri/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/tanusattri/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/tanusattri/DSA/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanusattri/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanusattri/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -352,6 +353,7 @@
 | [0518-coin-change-ii](https://github.com/tanusattri/DSA/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/tanusattri/DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/tanusattri/DSA/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/tanusattri/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/tanusattri/DSA/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tanusattri/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1340-jump-game-v](https://github.com/tanusattri/DSA/tree/master/1340-jump-game-v) |
@@ -377,6 +379,7 @@
 | [0486-predict-the-winner](https://github.com/tanusattri/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanusattri/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/tanusattri/DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/tanusattri/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanusattri/LeetCode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -560,4 +563,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tanusattri/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/tanusattri/LeetCode-DSA/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanusattri/LeetCode-DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanusattri/LeetCode-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
