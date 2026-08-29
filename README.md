@@ -91,6 +91,7 @@
 | [2784-check-if-array-is-good](https://github.com/tanusattri/DSA/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/tanusattri/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanusattri/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanusattri/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tanusattri/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanusattri/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -269,6 +270,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tanusattri/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/tanusattri/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanusattri/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanusattri/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanusattri/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tanusattri/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -538,6 +540,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanusattri/DSA/tree/master/0200-number-of-islands) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanusattri/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Segment Tree
 |  |
 | ------- |
