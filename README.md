@@ -106,6 +106,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanusattri/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tanusattri/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanusattri/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3606-coupon-code-validator](https://github.com/tanusattri/DSA/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tanusattri/LeetCode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -156,6 +157,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanusattri/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanusattri/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tanusattri/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanusattri/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3606-coupon-code-validator](https://github.com/tanusattri/DSA/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/tanusattri/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/tanusattri/LeetCode-DSA/tree/master/3731-find-missing-elements) |
@@ -248,6 +250,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tanusattri/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanusattri/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tanusattri/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanusattri/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanusattri/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -428,6 +431,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanusattri/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanusattri/LeetCode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanusattri/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanusattri/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -528,6 +532,7 @@
 | [0200-number-of-islands](https://github.com/tanusattri/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/tanusattri/DSA/tree/master/0322-coin-change) |
 | [1345-jump-game-iv](https://github.com/tanusattri/DSA/tree/master/1345-jump-game-iv) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanusattri/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Monotonic Stack
 |  |
 | ------- |
